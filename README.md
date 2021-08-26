@@ -1,2 +1,5 @@
 # DataScienceHub
-Weekly challenges of data science tasks, mostly using Kaggle's datasets.
+Weekly challenges of data science tasks, mostly using Kaggle's datasets. Challenges start from basic problems of data science and they become harder every two weeks.
+## Week 1
+**Titanic dataset, Classification**
+
