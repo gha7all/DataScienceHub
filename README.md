@@ -4,4 +4,7 @@ Weekly challenges of data science tasks, mostly using Kaggle's datasets. Challen
 **Titanic dataset, Classification: who survived?**
 <br>
 **Housing dataset, Regression: How much does it cost?**
+## Week 2
+**Santander value prediction**
+<br>
 
