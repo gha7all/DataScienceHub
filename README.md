@@ -8,5 +8,5 @@ Weekly challenges of data science tasks, mostly using Kaggle's datasets. Challen
 **Santander value prediction**
 <br>
 ## Week 3
-** Disaster tweets**
+**Disaster tweets: text classification**
 
