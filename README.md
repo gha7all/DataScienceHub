@@ -9,4 +9,6 @@ Weekly challenges of data science tasks, mostly using Kaggle's datasets. Challen
 <br>
 ## Week 3
 **Disaster tweets: text classification**
+<br>
+**Quera question pairs: NLP**
 
